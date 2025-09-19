@@ -4,3 +4,12 @@ function addition(a, b) {
 
 let somme = addition(8, 5);
 console.log("La somme est : " + somme);
+
+
+
+function carinho (name , age){
+    return " bom dia , " + name + " you are " + age + " years old. "
+
+}
+let somme = carinho ("hanane",22);
+console.log(somme);
